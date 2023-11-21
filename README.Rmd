@@ -38,13 +38,13 @@ rprojectcesab <img src="man/figures/compendium-sticker.png" align="right" style=
 
 ## Overview
 
-This research compendium... **{{ DESCRIBE YOUR PROJECT }}**
+This research compendium... **{{ was created following https://rdatatoolbox.github.io/chapters/ex-compendium.html }}**
 
 
 
 ## Features
 
-The main purpose of this compendium is to... **{{ DESCRIBE THE MAIN FEATURES }}**
+The main purpose of this compendium is to... **{{work on two datasets PanTHERIA and WildFinder }}**
 
 
 
