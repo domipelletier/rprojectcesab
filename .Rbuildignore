@@ -1,0 +1,9 @@
+^LICENSE\.md$
+^data/raw-data$
+^data/derived-data$
+^outputs$
+^figures$
+^analyses$
+^make\.R$
+^README\.Rmd$
+^README\.html$
